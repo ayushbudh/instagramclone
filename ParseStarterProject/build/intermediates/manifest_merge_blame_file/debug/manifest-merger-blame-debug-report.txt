@@ -1,0 +1,70 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.parse.starter"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="29"
+8-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:6:5-79
+12-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:7:5-80
+13-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:7:22-77
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:8:5-79
+14-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:8:22-76
+15
+16    <application
+16-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:5-28:19
+17        android:name="com.parse.starter.StarterApplication"
+17-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:11:9-43
+18        android:allowBackup="true"
+18-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.3.0] /Users/ayushbudhwani/.gradle/caches/transforms-2/files-2.1/429fb715fcc7711d4ab133e350b6f531/core-1.3.0/AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:extractNativeLibs="false"
+22        android:icon="@mipmap/ic_launcher"
+22-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:9-43
+23        android:label="@string/app_name"
+23-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:9-41
+24        android:testOnly="true"
+25        android:theme="@style/AppTheme"
+25-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:9-40
+26        android:usesCleartextTraffic="true" >
+26-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:9-44
+27        <activity android:name="com.parse.starter.UserFeedActivity" />
+27-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:9-63
+27-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:19-51
+28        <activity android:name="com.parse.starter.UserListActivity" />
+28-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:9-54
+28-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:19-51
+29        <activity
+29-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:9-27:20
+30            android:name="com.parse.starter.MainActivity"
+30-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:13-41
+31            android:label="@string/app_name" >
+31-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:13-45
+32            <intent-filter>
+32-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:13-26:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:17-69
+33-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:25:17-77
+35-->/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:25:27-74
+36            </intent-filter>
+37        </activity>
+38    </application>
+39
+40</manifest>

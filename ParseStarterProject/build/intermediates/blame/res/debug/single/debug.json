@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_user_list.xml.flat",
+        "source": "/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout/activity_user_list.xml"
+    },
+    {
+        "merged": "/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable_instagram.png.flat",
+        "source": "/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/drawable/instagram.png"
+    },
+    {
+        "merged": "/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/menu_share_menu.xml.flat",
+        "source": "/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/menu/share_menu.xml"
+    },
+    {
+        "merged": "/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable_friends.png.flat",
+        "source": "/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/drawable/friends.png"
+    },
+    {
+        "merged": "/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_user_feed.xml.flat",
+        "source": "/Users/ayushbudhwani/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout/activity_user_feed.xml"
+    }
+]
