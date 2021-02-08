@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Parse-starter-project.iml" filepath="$PROJECT_DIR$/.idea/modules/Parse-starter-project.iml" group="Parse-starter-project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ParseStarterProject/ParseStarterProject.iml" filepath="$PROJECT_DIR$/.idea/modules/ParseStarterProject/ParseStarterProject.iml" group="Parse-starter-project/ParseStarterProject" />
+    </modules>
+  </component>
+</project>

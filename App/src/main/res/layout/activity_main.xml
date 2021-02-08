@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/backgoundLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    tools:context=".MainActivity">>
+
+    <EditText
+        android:id="@+id/usernametxt"
+        android:layout_width="354dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="124dp"
+        android:layout_marginEnd="25dp"
+        android:ems="10"
+        android:hint="Username"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/signupbtn"
+        android:layout_width="154dp"
+        android:layout_height="49dp"
+        android:layout_below="@+id/passwordtxt"
+        android:layout_alignStart="@+id/passwordtxt"
+        android:layout_alignEnd="@+id/passwordtxt"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="93dp"
+        android:layout_marginTop="43dp"
+        android:layout_marginEnd="94dp"
+        android:background="#201E1E"
+        android:onClick="signup"
+        android:text="Create Account"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/logintxt"
+        android:layout_width="57dp"
+        android:layout_height="20dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="3dp"
+        android:layout_marginTop="326dp"
+        android:layout_marginEnd="56dp"
+        android:layout_toEndOf="@+id/textView"
+        android:text="Log in"
+        android:textAlignment="center"
+        android:textColor="#1555D6"
+        android:textSize="14sp" />
+
+    <ImageView
+        android:id="@+id/logoimg"
+        android:layout_width="99dp"
+        android:layout_height="64dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="136dp"
+        android:layout_marginTop="30dp"
+        app:srcCompat="@drawable/instagram" />
+
+    <EditText
+        android:id="@+id/passwordtxt"
+        android:layout_width="341dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="179dp"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="33dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="95dp"
+        android:layout_marginBottom="243dp"
+        android:text="Already have an account?"
+        android:textColor="#050505"
+        android:textSize="15sp" />
+
+</RelativeLayout>
